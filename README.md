@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a 21-year-old Computer Science student currently enrolled in the rigorous 42 School program. I started my journey in business before transitioning to computer science, building a strong technical foundation from scratch. 
+I am a 22-year-old Computer Science student currently enrolled in the rigorous 42 School program. I started my journey in business before transitioning to computer science, building a strong technical foundation from scratch. 
 
 My passion lies at the intersection of **clean UI/UX design** and **complex algorithmic problem-solving**. Whether I'm building an immersive iOS app or writing a low-level pathfinding algorithm in C, I am obsessed with performance and code architecture.
 
