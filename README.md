@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <strong>iOS / macOS Developer | CS Student at 42 | 2x Apple Swift Student Challenge Winner</strong>
+  <strong>CS Student at 42 | 2x Apple Swift Student Challenge Winner</strong>
   <br>
-  <em>Aiming for Stanford 2027 & Software Engineering Internship at Apple</em>
+  <em>Aiming for Stanford 2027 & Software Engineering Internship</em>
 </div>
 
 <br/>
@@ -18,7 +18,6 @@ My passion lies at the intersection of **clean UI/UX design** and **complex algo
 
 - 🏆 **Achievements:** Distinguished Winner in Top 50 of the 2026 Apple Swift Student Challenge & Winner in 2023 for my app *SOS+*.
 - 🎓 **Education:** 42 School (CS), Harvard CS50, Stanford CS193p.
-- 💬 **Ask me about:** iOS Architecture, Swift UI, A* Pathfinding, or why I love optimizing sorting algorithms.
 - 📫 **Reach me at:** ryandelepine@icloud.com | [LinkedIn](https://linkedin.com/in/ryan-del)
 
 ---
@@ -41,7 +40,7 @@ My passion lies at the intersection of **clean UI/UX design** and **complex algo
 | 📱 iOS / Ecosystem Apple | 🧠 Algorithms & Systems (42 School) |
 | :--- | :--- |
 | **[SOS+ (SSC 2023 Winner)](https://github.com/Vibes33/SOS-App-SwiftStudent-2023)**<br>A complete safety application conceptualized and presented directly to Apple executives (including Tim Cook). | **[Push_swap](https://github.com/Vibes33)**<br>A highly optimized sorting algorithm in C manipulating two stacks. Implemented custom chunk-based pre-sorting and rotation cost optimization. |
-| **Blue (SSC 2026 Top 50)**<br>Educational iOS app built with SwiftUI focusing on marine biodiversity, featuring an interactive map, ecosystem simulator, and local data persistence. | **[Fly-In](https://github.com/Vibes33)**<br>Multi-drone routing simulator in Python. Implemented a space-time A* pathfinding algorithm using Dijkstra's as a heuristic to minimize total turns. |
+| **[Blue (SSC 2026 Top 50)](https://github.com/Vibes33/Blue-SwiftStudentChallenge2026)**<br>Educational iOS app built with SwiftUI focusing on marine biodiversity, featuring an interactive map, ecosystem simulator, and local data persistence. | **[Fly-In](https://github.com/Vibes33)**<br>Multi-drone routing simulator in Python. Implemented a space-time A* pathfinding algorithm using Dijkstra's as a heuristic to minimize total turns. |
 
 ---
 
@@ -59,5 +58,4 @@ My passion lies at the intersection of **clean UI/UX design** and **complex algo
 <br/>
 
 <div align="center">
-  <em>When I'm not coding, you can find me playing the violin 🎻, running 🏃‍♂️, playing Chess (1440 ELO) ♟️, or competing in the French University Esports Championship (League of Legends Semifinalist 🎮).</em>
 </div>
