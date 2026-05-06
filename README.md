@@ -14,7 +14,6 @@
 
 I am a 22-year-old Computer Science student currently enrolled in the rigorous 42 School program. I started my journey in business before transitioning to computer science, building a strong technical foundation from scratch. 
 
-My passion lies at the intersection of **clean UI/UX design** and **complex algorithmic problem-solving**. Whether I'm building an immersive iOS app or writing a low-level pathfinding algorithm in C, I am obsessed with performance and code architecture.
 
 - 🏆 **Achievements:** Distinguished Winner in Top 50 of the 2026 Apple Swift Student Challenge & Winner in 2023 for my app *SOS+*.
 - 🎓 **Education:** 42 School (CS), Harvard CS50, Stanford CS193p.
